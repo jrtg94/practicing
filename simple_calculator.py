@@ -1,7 +1,7 @@
 #==============================================================================
 # simple calculator using Python
 # Made by: Alexis.I
-# PLACE: Puerto Rico, Vega Alta
+# PLACE: VEGA ALTA, PUERTO RICO
 # Day: Jan 1, 2018
 #==============================================================================
 class Calculator():
